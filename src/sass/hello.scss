@@ -1,0 +1,15 @@
+.lol{
+    width: 100%;
+    &.ty{
+        color: black;
+        position: relative;
+        display: grid;
+        justify-content: center;
+    }
+    &.xd{
+        color: pink;
+        position: sticky;
+        font-size: 28px;
+        font-weight: bold;
+    }
+}
